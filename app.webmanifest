@@ -1,0 +1,14 @@
+{
+    "name": "Max's Activities, our first PWA",
+    "short_name": "Activities",
+    "display": "standalone",
+    "start_url": "./?utm_source=pwa",
+    "scope": "./",
+    "icons": [
+        {
+            "src": "icons/icon-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
