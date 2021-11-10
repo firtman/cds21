@@ -5,10 +5,18 @@
     "start_url": "./?utm_source=pwa",
     "scope": "./",
     "theme_color": "#bb7162",
+    "description": "This app will let you define your own activities shortcuts",
     "icons": [
         {
             "src": "icons/icon-1024.png",
             "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "icons/screenshot.png",
+            "sizes": "1170x2532",
             "type": "image/png"
         }
     ]
