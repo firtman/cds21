@@ -1,0 +1,17 @@
+{
+    "name": "Max's Activities Shortcuts",
+    "short_name": "Activities",
+    "start_url": "./?utm_source=pwa",
+    "scope": "./",
+    "display": "standalone",
+    "theme_color": "green",
+    "background_color": "silver",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icons/icon-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
