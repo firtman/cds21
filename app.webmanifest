@@ -7,10 +7,24 @@
     "theme_color": "green",
     "background_color": "silver",
     "orientation": "portrait",
+    "description": "This app will let you customize a home screen with your own deep links",
     "icons": [
         {
             "src": "icons/icon-1024.png",
             "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src":"icons/maskable_icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot.png",
+            "sizes": "1284x2778",
             "type": "image/png"
         }
     ]
